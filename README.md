@@ -59,9 +59,9 @@ To predict a target variable from a dataset by:
 
 | Metric | Value |
 |--------|-------|
-| MAE    | XX.XX |
-| RMSE   | XX.XX |
-| R²     | 0.XX  |
+| MAE    | 1955.66 |
+| RMSE   | 2892.40 |
+| R²     | 0.08  |
 
 ---
 
