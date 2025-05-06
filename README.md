@@ -74,7 +74,7 @@ Below are some visuals from the pipeline (see screenshots/ folder):
 - Normalization
 - Model evaluation
 
-![Pipeline Diagram](screenshots/pipeline_diagram.png)
+![Pipeline Diagram](data-pipeline.png)
 
 ---
 
