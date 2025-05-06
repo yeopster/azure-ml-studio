@@ -75,6 +75,7 @@ Below are some visuals from the pipeline (see screenshots/ folder):
 - Model evaluation
 
 ![Pipeline Diagram](data-pipeline.png)
+![Evaluate Model](evaluate-model.png)
 
 ---
 
