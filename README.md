@@ -88,4 +88,4 @@ Below are some visuals from the pipeline (see screenshots/ folder):
 
 ## Author
 
-- Your Name (add your contact or LinkedIn/GitHub profile)
+- Muhammad Faris (https://www.linkedin.com/in/muhammad-faris-ayob-6729391b7/)
